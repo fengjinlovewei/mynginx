@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0eed3fb1.chunk.css",
+    "main.js": "./static/js/main.3ed6daad.chunk.js",
+    "main.js.map": "./static/js/main.3ed6daad.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.95b205f0.js",
+    "runtime-main.js.map": "./static/js/runtime-main.95b205f0.js.map",
+    "static/css/2.b7d29cb4.chunk.css": "./static/css/2.b7d29cb4.chunk.css",
+    "static/js/2.42d7983c.chunk.js": "./static/js/2.42d7983c.chunk.js",
+    "static/js/2.42d7983c.chunk.js.map": "./static/js/2.42d7983c.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.f31b97ddb6917a913fa0675207d4ddbb.js": "./precache-manifest.f31b97ddb6917a913fa0675207d4ddbb.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.b7d29cb4.chunk.css.map": "./static/css/2.b7d29cb4.chunk.css.map",
+    "static/css/main.0eed3fb1.chunk.css.map": "./static/css/main.0eed3fb1.chunk.css.map",
+    "static/js/2.42d7983c.chunk.js.LICENSE.txt": "./static/js/2.42d7983c.chunk.js.LICENSE.txt",
+    "static/media/ieee-754-2008.pdf": "./static/media/ieee-754-2008.41338a9a.pdf",
+    "static/media/ieee754formula.png": "./static/media/ieee754formula.d91ebafc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95b205f0.js",
+    "static/css/2.b7d29cb4.chunk.css",
+    "static/js/2.42d7983c.chunk.js",
+    "static/css/main.0eed3fb1.chunk.css",
+    "static/js/main.3ed6daad.chunk.js"
+  ]
+}
