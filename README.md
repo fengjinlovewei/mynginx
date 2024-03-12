@@ -10,3 +10,6 @@ docker rm -f id或名称
 
 #### 删除正在运行的images
 docker rmi -f id或名称
+
+#### linux 删除文件夹
+rm -rf xxx
